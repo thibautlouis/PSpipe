@@ -16,7 +16,7 @@ The pipeline is mainly written in python and depends on four different codes
 
 * pspy : python library for power spectrum estimation (https://github.com/thibautlouis/pspy)
 * namaster : C library + python wrapper for power spectrum estimation (https://github.com/LSSTDESC/NaMaster)
-* mflike : mutlifrequency likelihood built on cobaya (https://github.com/simonsobs/LAT_MFLike)
+* mflike : mutlifrequency likelihood interfaced with cobaya (https://github.com/simonsobs/LAT_MFLike)
 
 
 Installation
