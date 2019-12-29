@@ -7,16 +7,16 @@
 
 The package
 ===============
-PSpipe is a package to extract cosmological parameters information from current and future
-Cosmic Microwave Background experiments. 
+PSpipe is a package to extract cosmological parameters information from the T and E modes power spectra of the large aperture telescope of the Simons Observatory.
+
 
 Requirements
 ===============
 The pipeline is mainly written in python and depends on four different codes
 
-* pspy, namaster : power spectrum estimation
-* mflike : mutlifrequency likelihood
-* fgspectra : modelling of 
+* pspy : python library for power spectrum estimation (https://github.com/thibautlouis/pspy)
+* namaster : C library + python wrapper for power spectrum estimation (https://github.com/LSSTDESC/NaMaster)
+* mflike : mutlifrequency likelihood built on cobaya (https://github.com/simonsobs/LAT_MFLike)
 
 
 Installation
