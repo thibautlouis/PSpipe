@@ -5,7 +5,7 @@ PSpipe
 
 .. raw:: html
 
-<img src="https://github.com/thibautlouis/PSpipe/blob/master/wiki_plot/logo.png" height="400px">
+      <img src="https://github.com/thibautlouis/PSpipe/blob/master/wiki_plot/logo.png" height="400px">
 
 .. contents:: **Table of Contents**
 
