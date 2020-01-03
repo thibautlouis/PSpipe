@@ -19,16 +19,3 @@ The pipeline is mainly written in python and depends on three different codes
 * mflike : mutlifrequency likelihood interfaced with cobaya (https://github.com/simonsobs/LAT_MFLike)
 
 
-Installation
-===============
-
-
-Installation and usage at NERSC
-===============
-
-
-
-Notebooks
-===============
-
-
