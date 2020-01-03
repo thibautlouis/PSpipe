@@ -12,7 +12,7 @@ PSpipe is a package to extract cosmological parameters information from the high
 
 Requirements
 ===============
-The pipeline is mainly written in python and depends on three different codes
+The pipeline is mainly written in python and make use of three different codes
 
 * pspy : python library for power spectrum estimation (https://github.com/thibautlouis/pspy)
 * namaster : C library + python wrapper for power spectrum estimation (https://github.com/LSSTDESC/NaMaster)
